@@ -1,28 +1,78 @@
-Center of the Galaxy, 07FF:007F:07FF
-Altera Confederation (PC Civ.), 0001:00FE:0FFD
-Arcadia Project (PS4 Civ.), 0204:0078:0B3E
-Capital Triangle (PC Civ.), 0364:0078:0CE5
-Constitutional Monarchy of Yokoso (PC Civ.), 0465:0080:0D69
-Conure Republic (PC Civ.), 0445:0088:0C08
-Deep Thought Collective (PS4 Civ.), 0803:0087:0800
-Diplo Gardens, 0BE9:007D:09C3
-Euclid Discoverers Union (PS4 Civ.), 070D:007A:0122
-Free Folk of the Fringe (PS4 Civ.), 0467:0081:0D70
-Galactic Hub, 0469:0081:0D6D
-Galactic Network of Systems (PS4 Civ.), 0516:0087:01E6
-Geknip Gang Hub (Civilization), 0E40:0083:04E8
-Her Majesty's Empire of Sol (PC Civ.), 0991:007F:0EBB
-Hlaalu Trading Company (PC Civ.), 0469:0081:0D6E
-Nesdorinux Project (PC Civ.), 0804:0079:07FD
-No Man's Sky Love Hub, 0804:0084:0804
-Obsidian Raven Empire (PC Civ.), 0EF0:0092:01F6
-Pandarian Empire (PS4 Civ.), 0469:0081:0D6C
-Pilgrim Star, 064A:0082:01B9
-Spacing Guild (PS4 Civ.), 046A:0080:0D6C
-ThC - The Chosen (PC Civ.), 043E:0080:0D86
-The Outer Rim Oasis, 0000:0000:0000
-Two genders of 6m+ diplos, 0E8F:0087:09B7
-United Euclid Empire (Civilization), 0E99:0086:0667
-Wardens (PC Civ.), 046B:0082:0D6E
-Yebdishtei Federation (PC Civ.), 0469:0082:0D6C
-~6m diplos found here, 063A:007C:0E31
+Center of the Galaxy, 07FF:007F:07FF:
+Altera Confederation (PC Civ.), 0001:00FE:0FFD:
+Arcadia Project (PS4 Civ.), 0204:0078:0B3E:
+Capital Triangle (PC Civ.), 0364:0078:0CE5:
+Constitutional Monarchy of Yokoso (PC Civ.), 0465:0080:0D69:
+Conure Republic (PC Civ.), 0445:0088:0C08:
+Deep Thought Collective (PS4 Civ.), 0803:0087:0800:
+Diplo Gardens, 0BE9:007D:09C3:
+Euclid Discoverers Union (PS4 Civ.), 070D:007A:0122:
+Free Folk of the Fringe (PS4 Civ.), 0467:0081:0D70:
+Galactic Hub, 0469:0081:0D6D:
+Galactic Network of Systems (PS4 Civ.), 0516:0087:01E6:
+Geknip Gang Hub (Civilization), 0E40:0083:04E8:
+Her Majesty's Empire of Sol (PC Civ.), 0991:007F:0EBB:
+Hlaalu Trading Company (PC Civ.), 0469:0081:0D6E:
+Nesdorinux Project (PC Civ.), 0804:0079:07FD:
+No Man's Sky Love Hub, 0804:0084:0804:
+Obsidian Raven Empire (PC Civ.), 0EF0:0092:01F6:
+Pandarian Empire (PS4 Civ.), 0469:0081:0D6C:
+Pilgrim Star, 064A:0082:01B9:
+Spacing Guild (PS4 Civ.), 046A:0080:0D6C:
+ThC - The Chosen (PC Civ.), 043E:0080:0D86:
+The Outer Rim Oasis, 0000:0000:0000:
+Two genders of 6m+ diplos, 0E8F:0087:09B7:
+United Euclid Empire (Civilization), 0E99:0086:0667:
+Wardens (PC Civ.), 046B:0082:0D6E:
+Yebdishtei Federation (PC Civ.), 0469:0082:0D6C:
+~6m diplos found here, 063A:007C:0E31:
+[HUB6-K-21] Guyang Ziho, 0468:0081:0D6D:0021 
+[HUB-K-FE] HaveIronFaith, 0469:0081:0D6D:00FE 
+[HUB-V-120](Cr+96%, 0469:0081:0D6D:0120 
+[HUB-V-164] Nihonmatsuba, 0469:0081:0D6D:0164 
+[HUB-V-D7] Radoxtre, 0469:0081:0D6D:00D7 
+00FD-0049-02CA-0151, 00FD:0049:02CA:0151 
+90th System, 07A4:007E:072C:006B 
+Aaukidrio, 09E8:007C:018B:01A3 
+Afterlife, 0841:0085:011F:0028 
+Alfa Romeo 105, 0C94:0079:02D7:0060 
+Anileva, 0323:007E:0CE4:01C2 
+Aurashiosa-Mia, 046A:0081:0D6E:004C 
+Azehevronye-Uptve HRS, 079A:0080:0EC7:0079 
+B&amp;H Ventures, 05D7:007F:0DC1:0079 
+Black Swan, 0872:007F:023A:019F 
+Caesar Gettys System, 0000:007C:0FFE:00CC 
+Cody Sector, 08CD:007E:0EBC:003D 
+Cyanis, 0D0D:007F:0BFF:00D7 
+Dabashikikush XIV Region, 0454:007D:0D4C:0027 
+Dodtagidets, 034A:007C:0C68:0007 
+Dugpa 41-070176, 0872:007F:023A:004F 
+Esvetogoch VIII, 0B0E:0081:02E8:0135 
+Fukubamegurois, 02CF:0077:0C50:0128 
+G3p: Kamaixingti, 0364:0078:0CE5:010A 
+G6: Orozawaniwata I, 0B71:0076:0DC2:000F 
+Gagdahlidovo, 0402:007E:0D2B:01F1 
+GL-94, 046D:0081:0D64:0166 
+Hisperia, 0469:0081:0D6E:00B3 
+Hu, 05EF:0083:0DB6:0191 
+Hubbleraco, 0418:007D:0D57:01E8 
+Iidakawagoen, 03FF:007E:0D2A:01E5 
+Iogawarazu, 01C7:007F:053D:00FE 
+Jeramorgara, 06AB:0080:0E4E:005C 
+Jixingdengzu, 0339:007E:0B90:013A 
+Lemmelliea, 0A38:0082:0DE5:0005 
+Makonis, 046A:0081:0D6E:00CC 
+Mellizo A, 04FE:007C:0DBB:0190 
+Miuranoyamai, 0A86:0082:0DB3:01B7 
+New Home, 0C2D:0087:0E14:0113 
+Olstumaingc, 01B9:0083:0B07:006 
+One, 0469:0081:0D6D:018E 
+Orslatimilie System, 045B:007F:0D8C:01C4 
+Pixiazhalaz-Tuyu, 04ED:007E:0D92:0066 
+Royds, 01D7:0078:0504:0055 
+Schweres Seelengl\u00fcck, 048F:0081:0D78:0052 
+Syko Star System SX58-R, 0DF7:00A8:0995:00C8 
+Udgladseyoarsk, 0516:0086:0E2E:00F5 
+Vartausato-Umots, 07FF:007F:07FF:0001 
+Vehola, 065A:0086:0CFE:0201 
+Yokotoum1, 0369:007D:0B2E:0036

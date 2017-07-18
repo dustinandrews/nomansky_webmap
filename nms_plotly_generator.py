@@ -40,7 +40,7 @@ color = 0
 with open('coordinates.txt', 'r') as f:
     for line in f.readlines():
         name, loc = line.split(',')
-        x,z,y = loc.split(':')
+        x,z,y,junk = loc.split(':')
         x = int(x,16)
         y = int(y,16)
         z = int(z,16)
